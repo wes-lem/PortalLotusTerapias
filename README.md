@@ -82,4 +82,4 @@ LotusWebsite/
 
 ## Contato no site
 
-WhatsApp e e-mail vêm das opções do tema (padrão: `5585987960987` / `portallotusterapias@gmail.com`). Os botões abrem `wa.me` com texto pré-preenchido e o Gmail na web.
+WhatsApp e e-mail vêm das opções do tema. Os botões abrem `wa.me` com texto pré-preenchido e o Gmail na web.
