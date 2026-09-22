@@ -2,6 +2,8 @@
 
 Site da psicóloga **Ieda Lima**: caderno terapêutico, clube para mulheres e mentoria de empresas. Visual em verde, dourado e creme — o layout não se arrasta; textos e fotos são editáveis no WordPress.
 
+**No ar:** [https://portallotusterapias.com/](https://portallotusterapias.com/)
+
 ![Página inicial do Portal Lótus](landing.png)
 
 ## O que tem neste repositório
